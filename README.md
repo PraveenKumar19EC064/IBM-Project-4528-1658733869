@@ -1,5 +1,8 @@
 # IBM-Project-4528-1658733869
 Fertilizers Recommendation System For Disease Prediction
+
+
+
 Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases.
 Diseases on plants placed a major constraint on the production and a major threat to food security. 
 Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. 
